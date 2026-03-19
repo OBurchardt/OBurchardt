@@ -12,8 +12,8 @@ Uso este espaço para documentar os modelos, análises e aplicações que desenv
 
 ### Projetos
 
-* **[Forecasting Port of Singapore's Cargo Tonnage](LINK_AQUI)**
-  Previsão de séries temporais para volume de cargas usando R. O modelo lida com quebras estruturais (Crise de 2008 e COVID-19) e compara a performance preditiva de abordagens tradicionais (ARIMA, Holt-Winters, ETS) com algoritmos de machine learning (Prophet, NNETAR).
+* **[Time Series Project](Time_series_project)**
+  Previsão de séries temporais para o volume mensal de cargas do Porto de Singapura usando R. O modelo lida com quebras estruturais (Crise de 2008 e COVID-19) e compara a performance preditiva de abordagens tradicionais (ARIMA, Holt-Winters, ETS) com algoritmos de machine learning (Prophet, NNETAR) para escolher o melhor modelo para forecasting.
 
 * **[LMF Macro Fund - Trading & Portfolio App](LINK_AQUI)**
   Aplicação web em R (Shiny) desenvolvida para simulação de trading e gestão de portfólio de ETFs pelos núcleos e ligas que participei. A ferramenta integra armazenamento de operações via Google Sheets e gera visualizações automatizadas da relação risco-retorno do fundo.
