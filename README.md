@@ -4,7 +4,7 @@ Estudante de Economia (PUC-Rio / UCLA) focado em macroeconomia e finanças quant
 
 Uso este espaço para documentar os modelos, análises e aplicações que desenvolvo usando métodos estatísticos e programação (R, Python) para modelagem financeira, gestão de portfólio e previsão de cenários macroeconômicos.
 
-### Background
+### Experiência
 
 * **Educação:** Graduação em Economia pela PUC-Rio. Atualmente em intercâmbio acadêmico na UCLA (Business Economics).
 * **Pesquisa & Ensino:** Assistente de Pesquisa e Monitor de Ciência de Dados e Cálculo I na PUC-Rio.
