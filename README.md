@@ -12,7 +12,7 @@ Uso este espaço para documentar os modelos, análises e aplicações que desenv
 
 ### Projetos
 
-* **[Time Series Project]([Time_series_project](https://github.com/OBurchardt/Time_series_project))**
+* **[Time Series Project](https://github.com/OBurchardt/Time_series_project)**
   Previsão de séries temporais para o volume mensal de cargas do Porto de Singapura usando R. O modelo lida com quebras estruturais (Crise de 2008 e COVID-19) e compara a performance preditiva de abordagens tradicionais (ARIMA, Holt-Winters, ETS) com algoritmos de machine learning (Prophet, NNETAR) para escolher o melhor modelo para forecasting.
 
 * **[LMF Macro Fund - Trading & Portfolio App](LINK_AQUI)**
